@@ -1,0 +1,7 @@
+{
+    "username": "admin",
+    "token": "JENKEN_USER_TOKEN",
+    "jenkins_url": "localhost:1234",
+    "job_name": "RemoteTrigger",
+    "job_token": "JOB_TOKEN"
+}
